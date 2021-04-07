@@ -14,11 +14,15 @@ Although it is expected to see a high correlation value (close to 1) between tri
 ![picture](https://github.com/alilajevardi/EDA-for-emergency-department/blob/main/artifacts/Triage_pie.png)
 
 As below graph shows the Depart code of “DNW” is happen in priority level of 2-5. It means that patients with lower priority did not wait for seeing doctor and left the ED. It can explain why level 5 has lower waiting time. 
+
 ![picture](https://github.com/alilajevardi/EDA-for-emergency-department/blob/main/artifacts/waiting_depart.png)
  
 
 The three highest number of arrivals to ED occurred in 5, 6 and 7 PM, respectively. While the 8 AM has the lowest waiting time of ~20 minutes opposite to 11-12 PM with highest waiting time of ~88 minutes. The triage priority of 1 received an average waiting time of less than 1 minute.  The waiting time for children in age 8 and triage level of 1 was 0 minute while for children in age 11 there is an average waiting time of 7 minutes.
+
 ![picture](https://github.com/alilajevardi/EDA-for-emergency-department/blob/main/artifacts/Waiting_arraival.png)
+
+![picture](https://github.com/alilajevardi/EDA-for-emergency-department/blob/main/artifacts/ArraivalTime.png)
 
 
 A person with MRN of 416537 attended ED 68 times during 2009-2010.
